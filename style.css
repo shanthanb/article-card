@@ -12,6 +12,12 @@ body{
   font-family: 'Fira Sans', sans-serif;
   background: gray
 }
+
+h1{
+  position: absolute;
+  top: 5px;
+  left: 19px;
+}
 .blog-card{
   bottom: 20px;
   position: absolute;
